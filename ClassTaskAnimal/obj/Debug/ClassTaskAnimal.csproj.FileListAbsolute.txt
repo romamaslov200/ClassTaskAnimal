@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Уханев иМаслов\ClassTaskAnimal\bin\Debug\ClassTaskAnimal.exe.config
+C:\Users\User\Desktop\Уханев иМаслов\ClassTaskAnimal\bin\Debug\ClassTaskAnimal.exe
+C:\Users\User\Desktop\Уханев иМаслов\ClassTaskAnimal\bin\Debug\ClassTaskAnimal.pdb
+C:\Users\User\Desktop\Уханев иМаслов\ClassTaskAnimal\obj\Debug\ClassTaskAnimal.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Уханев иМаслов\ClassTaskAnimal\obj\Debug\ClassTaskAnimal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Уханев иМаслов\ClassTaskAnimal\obj\Debug\ClassTaskAnimal.exe
+C:\Users\User\Desktop\Уханев иМаслов\ClassTaskAnimal\obj\Debug\ClassTaskAnimal.pdb
+C:\Users\User\Desktop\Уханев иМаслов\ClassTaskAnimal\bin\Debug\RomanLib.dll
+C:\Users\User\Desktop\Уханев иМаслов\ClassTaskAnimal\bin\Debug\RomanLib.pdb
+C:\Users\User\Desktop\Уханев иМаслов\ClassTaskAnimal\obj\Debug\ClassTas.2E12493F.Up2Date
